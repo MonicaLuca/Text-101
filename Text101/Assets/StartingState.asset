@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0afcdc30ecd278a41ab3a39cb3c572b1, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 'Festers. Everywhere. Armed mostly with gas-powere rock fingers. At
+  storyText: 'Festers. Everywhere. Armed mostly with gas-powered rock fingers. At
     least 10 of them guarding the hangar door. Typical.
 
 

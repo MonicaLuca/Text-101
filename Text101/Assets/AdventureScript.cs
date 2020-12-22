@@ -9,6 +9,7 @@ public class AdventureScript : MonoBehaviour
     [SerializeField] Text textComponent;
     [SerializeField] State startingState;
 
+
     State state;
 
     // Start is called before the first frame update
@@ -16,6 +17,7 @@ public class AdventureScript : MonoBehaviour
     {
         state = startingState;
         textComponent.text = state.GetStateStory();
+      
     }
 
     // Update is called once per frame
