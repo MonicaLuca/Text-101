@@ -29,3 +29,6 @@ MonoBehaviour:
     the emergency exit.
 
 '
+  nextStates:
+  - {fileID: 11400000, guid: d40db0cecc140324f9b3f5164b9dd470, type: 2}
+  - {fileID: 11400000, guid: a71ebeb7fb75dbf40947720ccb937c6e, type: 2}
